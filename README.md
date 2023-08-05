@@ -20,6 +20,7 @@ A collection of learning materials for students interested in learning robot pro
   - [Learning Java: An Introduction to Real-World Programming with Java (5th Ed) by Loy, Niemeyer & Leuck (May 5, 2020)](https://www.amazon.com/Learning-Java-Introduction-Real-World-Programming/dp/1492056278)
   - [Learning Java: An Introduction to Real-World Programming with Java (6th Ed) by Loy, Niemeyer & Leuck (preorder, releases Oct 31, 2023)](https://www.amazon.com/Learning-Java-Introduction-Real-World-Programming/dp/1098145534)
   - [AP Computer Science A Textbook (CodeHS)](https://codehs.com/textbook/apcsa_textbook/) (free)
+- A skeleton project you can use to explore coding your ideas in Java: [FRCTeam2992/java_training_project_base](https://github.com/FRCTeam2992/java_training_project_base)
 
 ## Materials for learning Developer Tools
 
